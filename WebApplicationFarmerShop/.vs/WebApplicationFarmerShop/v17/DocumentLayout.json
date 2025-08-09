@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|c:\\users\\rober\\onedrive\\documents\\github\\webapplicationfarmershop\\webapplicationfarmershop\\webapplicationfarmershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|solutionrelative:webapplicationfarmershop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|c:\\users\\rober\\onedrive\\documents\\github\\webapplicationfarmershop\\webapplicationfarmershop\\webapplicationfarmershop\\middlewares\\clientfarmratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|solutionrelative:webapplicationfarmershop\\middlewares\\clientfarmratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|c:\\users\\rober\\onedrive\\documents\\github\\webapplicationfarmershop\\webapplicationfarmershop\\webapplicationfarmershop\\services\\farmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|solutionrelative:webapplicationfarmershop\\services\\farmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|c:\\users\\rober\\onedrive\\documents\\github\\webapplicationfarmershop\\webapplicationfarmershop\\webapplicationfarmershop\\services\\ifarmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|solutionrelative:webapplicationfarmershop\\services\\ifarmrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|c:\\users\\rober\\onedrive\\documents\\github\\webapplicationfarmershop\\webapplicationfarmershop\\webapplicationfarmershop\\services\\buyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|solutionrelative:webapplicationfarmershop\\services\\buyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|c:\\users\\rober\\onedrive\\documents\\github\\webapplicationfarmershop\\webapplicationfarmershop\\webapplicationfarmershop\\services\\ibuyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|solutionrelative:webapplicationfarmershop\\services\\ibuyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|c:\\users\\rober\\onedrive\\documents\\github\\webapplicationfarmershop\\webapplicationfarmershop\\webapplicationfarmershop\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B68FB1-5C7A-42D3-8702-998B996792C1}|WebApplicationFarmerShop\\WebApplicationFarmerShop.csproj|solutionrelative:webapplicationfarmershop\\models\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientFarmRateLimitMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Middlewares\\ClientFarmRateLimitMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplicationFarmerShop\\Middlewares\\ClientFarmRateLimitMiddleware.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Middlewares\\ClientFarmRateLimitMiddleware.cs",
+              "RelativeToolTip": "WebApplicationFarmerShop\\Middlewares\\ClientFarmRateLimitMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:46:04.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationFarmerShop\\Program.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Program.cs",
+              "RelativeToolTip": "WebApplicationFarmerShop\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:38:45.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FarmRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Services\\FarmRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationFarmerShop\\Services\\FarmRepository.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Services\\FarmRepository.cs",
+              "RelativeToolTip": "WebApplicationFarmerShop\\Services\\FarmRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:13:22.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFarmRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Services\\IFarmRepository.cs",
+              "RelativeDocumentMoniker": "WebApplicationFarmerShop\\Services\\IFarmRepository.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Services\\IFarmRepository.cs",
+              "RelativeToolTip": "WebApplicationFarmerShop\\Services\\IFarmRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:10:47.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuyService.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Services\\BuyService.cs",
+              "RelativeDocumentMoniker": "WebApplicationFarmerShop\\Services\\BuyService.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Services\\BuyService.cs",
+              "RelativeToolTip": "WebApplicationFarmerShop\\Services\\BuyService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:07:50.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Models\\Result.cs",
+              "RelativeDocumentMoniker": "WebApplicationFarmerShop\\Models\\Result.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Models\\Result.cs",
+              "RelativeToolTip": "WebApplicationFarmerShop\\Models\\Result.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:05:22.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBuyService.cs",
+              "DocumentMoniker": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Services\\IBuyService.cs",
+              "RelativeDocumentMoniker": "WebApplicationFarmerShop\\Services\\IBuyService.cs",
+              "ToolTip": "C:\\Users\\rober\\OneDrive\\Documents\\GitHub\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\WebApplicationFarmerShop\\Services\\IBuyService.cs",
+              "RelativeToolTip": "WebApplicationFarmerShop\\Services\\IBuyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T00:04:44.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
