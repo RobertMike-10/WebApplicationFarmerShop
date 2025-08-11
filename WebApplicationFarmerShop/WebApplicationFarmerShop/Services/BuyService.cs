@@ -15,14 +15,14 @@ namespace WebApplicationFarmerShop.Services
             await Task.Delay(1000);
             Console.WriteLine($"Buying product with ID: {productId}");
             int total = await _repository.GetTotalByProductId(productId);
-
-            if (total - quantity < 0 )
+            int resultQuantity = total - quantity;
+            if (resultQuantity < 0 )
             {
                 return Result.Fail($"Product {productId} is out of stock.");
             }
             else
             {
-                var result = await _repository.UpdateProduct(productId, total - quantity);
+                var result = await _repository.UpdateProduct(productId, resultQuantity);
                 if (result.Success)
                 {
                     return Result.Ok($"Product {productId} purchased successfully.");

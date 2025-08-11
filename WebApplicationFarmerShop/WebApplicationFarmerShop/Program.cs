@@ -39,6 +39,18 @@ builder.Services.Configure<ClientRateLimitOptions>(options =>
    };
 });
 
+
+// Add CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAngularApp", policy =>
+    {
+        policy.WithOrigins("http://localhost:4200") // URL de tu app Angular
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -51,11 +63,12 @@ app.UseMiddleware<ClientFarmRateLimitMiddleware>();
 
 app.UseHttpsRedirection();
 
+// Use CORS
+app.UseCors("AllowAngularApp");
 
-
-app.MapPost("/corns/buy", async ([FromServices] IBuyService buyService) =>
+app.MapPost("/corns/buy/{quantity}", async ([FromServices] IBuyService buyService, [FromRoute] int quantity=1) =>
 {
-    var result = await buyService.BuyAsync("corn001", 1);
+    var result = await buyService.BuyAsync("corn001", quantity);
     if (result.Success)
     {
         return Results.Ok(result.Message);
